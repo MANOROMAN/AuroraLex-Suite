@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="splash_logo_content_description">AuroraLex logosu</string>
+    <string name="splash_title">AuroraLex</string>
+    <string name="splash_subtitle">Hukuk Asistanı</string>
+    <string name="splash_quote">"Adalet mülkün temelidir."</string>
+    <string name="splash_signature">M. Kemal Atatürk</string>
+</resources>

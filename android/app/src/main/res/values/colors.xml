@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0a1219</color>
+    <color name="aurora_splash_background">#101922</color>
+    <color name="aurora_splash_subtitle">#B3FFFFFF</color>
+    <color name="aurora_splash_signature">#CCFFFFFF</color>
+</resources>
